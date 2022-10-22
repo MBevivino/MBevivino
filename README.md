@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MBevivino
-- 👀 I’m interested in Data Science and Predictive Analytics
+- 👀 I’m interested in Data Science and Predictive Analytics 
 - 🌱 I’m currently learning Python, SQL, and R
 - 💞️ I’m looking to collaborate on any data-science related project!
 - 📫 How to reach me: mbevivin@purdue.edu
